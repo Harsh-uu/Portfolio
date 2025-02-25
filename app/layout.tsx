@@ -30,6 +30,7 @@ export default function RootLayout({
 
         <meta property="og:title" content="Harsh Gupta | Personal Portfolio" />
         <meta property="og:description" content="Explore Harsh Gupta's portfolio featuring web development projects, skills, and professional experience." />
+        <meta property="og:url" content="https://portfolio-pi-ten-56.vercel.app/" />
         <meta property="og:type" content="website" />
 
         <meta name="twitter:card" content="summary_large_image" />
